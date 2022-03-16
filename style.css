@@ -195,7 +195,7 @@ body {
     height: 10%;
     border-bottom: 2px solid white;
     display: flex;
-    padding-top: 10px;
+    padding-top: 1px;
 }
 .slide-in-view .slide-header .title {
     width: 98%;
